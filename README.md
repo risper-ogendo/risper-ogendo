@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi👋, I'm Risper Ogendo 
+🎓 **Biochemistry graduate**|🔬 Aspiring Clinical Research & Pharma Scientist|📍Nairobi, Kenya 
 
-<!--
-**risper-ogendo/risper-ogendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 BSc. Biochemistry Graduate from Technical University of Kenya
+- 🧬 Practical lab and field experience from ICIPE(insect bioassays, VOC collection, PCR, DNA extraction, field data collection)
+- 🌱Learning Data Analysis- Python, Excel
+- 📊 Interested in Clinical research, Pharmacology, Immunology, Vector biology, Data Analysis
+- 🌱 Currently Exploring internships and entry roles in research, pharmaceuticals.
 
-Here are some ideas to get you started:
+## 🧰 Tools & Skills
+**Lab techniques**: PCR, DNA extraction
+**Data Entry**: Excel, Google Sheets
+**Data Analysis**: Excel, Python
+**Documentation & Reporting**: Word, Markdown, Powerpoint
+**Sample Management**: labelling, storage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+
+Email: ogendorisper8@gmail.com
+Linkedin: linkedin.com/in/risper-ogendo-biochemistry

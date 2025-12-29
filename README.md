@@ -1,63 +1,49 @@
-# Hello 👋
-I'm Risper Ogendo.
 
-**Blending Data, Research & Health | Biochemistry | GCP (Good Clinical Practice)**
+<h1 align="center">Hi 👋, I'm Risper Ogendo</h1>
+<h3 align="center">Health Research & Data Analyst</h3>
 
----
+### About Me
 
-## 🌱 About Me
+Early-career professional with a foundation in **Biochemistry**, specializing in **Health Research**, **Data Analysis**, and **Monitoring & Evaluation**.  
 
-I have a background in **Biochemistry** and I am building toward impactful work at the intersection of **data, research, and health**.  
+I support research teams in biomedical, clinical, and public health projects by collecting, cleaning, and analyzing data, then translating findings into actionable insights for decision-making.
 
-Currently, I’m channeling my scientific discipline and evidence-based approach into developing practical skills for **data-driven work**, while documenting my progress here in GitHub.
+💡 **`Unique Edge`**: I combine practical lab and field research experience with data handling and visualization skills to bridge science and actionable program insights.
 
----
+🌱 **`Currently`** gaining applied experience in **health data analytics and program evaluation**, building the foundation for advanced roles in Research Data Science and Bioinformatics.
 
-## 🎯 What I'm Up To
-
-- Strengthening foundations in **data analysis for health and research**
-- Practicing **reproducible research** using Git, GitHub, and documentation
-- Exploring **clinical-style datasets** and research workflows
-- Learning and applying **bioinformatics concepts**
-- Building small projects and sharing progress in public
+<br>
 
 ---
 
-## 🧪 Core Interests
+### 🎯 Focus Areas
 
-- Data quality, cleaning, and reporting 
-- Clinical & health data analysis  
-- Research-driven problem solving  
-- Bioinformatics foundations  
-- Evidence-based decision making  
- 
----
+🔹 **Research Assistance & Lab Support**  
+&nbsp;&nbsp;&nbsp;&nbsp; Data collection, documentation, study coordination, and workflow support for lab, clinical, and field projects
 
-## 🛠️ Tools & Skills (Growing)
+🔹 **Health & Program Data Analytics**  
+&nbsp;&nbsp;&nbsp;&nbsp; Data cleaning, statistical summaries, basic modeling, dashboards, and reporting for research and public health programs
 
-- GCP — *Good Clinical Practice*
-- Git & GitHub
-- Spreadsheets & data cleaning
-- Markdown & documentation
+🔹 **Monitoring & Evaluation (M&E)**  
+&nbsp;&nbsp;&nbsp;&nbsp; Indicator tracking, report preparation, outcome assessment, and program documentation for NGOs, hospitals, and research institutions
 
-> *This list will grow as I learn and build.*
+🔹 **Data Visualization & Tools**  
+&nbsp;&nbsp;&nbsp;&nbsp; Excel • Python • R • Tableau • Power BI • Basic statistics for program and research reporting
 
---- 
-
-I'm aiming at improving consistently and sharing what I learn along the way.
+<br>
 
 ---
 
-## 🤝 Let’s Connect
+### 🛠 Languages and Tools
 
-I’m open to:
-- Feedback and code reviews   
-- Learning from professionals in **health data, research, and bioinformatics**
+<h4>Core Languages</h4>
+> Python • R • SQL
 
-📫 Find me on LinkedIn and feel free to connect!
-[LinkedIn] (https://linkedin.com/in/risper-ogendo-biochemistry)
+<h4>Data & Visualization Tools</h4>
+> Excel • Tableau • Power BI
 
----
+<h4>Research & Lab Tools</h4>
+> Sample prep, data documentation, research protocols, field survey tools
 
-*Grounded in science. Guided by evidence. Built through practice.*
-
+<h4>Other Skills</h4>
+> Monitoring & Evaluation • Data Cleaning & Reporting • Study Coordination • Evidence-Based Decision Support
